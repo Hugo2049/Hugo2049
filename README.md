@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Hugo! </h1>
-  <h3>Computer Science Student @ UVG | Backend Consultant @ Improgress</h3>
+  <h3>Computer Science Student | Backend Consultant </h3>
 </div>
 
 ---
@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a Computer Science student at the **Universidad del Valle de Guatemala**.
-- 💼 Currently working as a **Backend Consultant** at **Improgress**.
+- 💼 Currently working as a **Backend Consultant**.
 - 🌐 Expanding my knowledge in web development and advanced database architectures.
 - 🔒 Deeply interested in exploring cybersecurity and secure system design.
 - 🐧 Enthusiast of open-source technologies, Linux, and containerization.
